@@ -1,2 +1,4 @@
-print ('willians'.upper())
-print ("Hello World")
+print ('Olá willians'.upper())
+print ("seja bem vindo ao Python")
+
+
